@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpLab02_Ej05", "TpLab02_Ej05\TpLab02_Ej05.csproj", "{270A9082-D552-41C2-B23C-2730E1B4F241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego", "Clases\Juego.csproj", "{5278C69E-A0CE-48BF-8EE1-421D734B5EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugada", "Jugada\Jugada.csproj", "{47292810-31D8-400D-8C48-0C5873F70DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270A9082-D552-41C2-B23C-2730E1B4F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270A9082-D552-41C2-B23C-2730E1B4F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270A9082-D552-41C2-B23C-2730E1B4F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270A9082-D552-41C2-B23C-2730E1B4F241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5278C69E-A0CE-48BF-8EE1-421D734B5EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5278C69E-A0CE-48BF-8EE1-421D734B5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5278C69E-A0CE-48BF-8EE1-421D734B5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5278C69E-A0CE-48BF-8EE1-421D734B5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47292810-31D8-400D-8C48-0C5873F70DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47292810-31D8-400D-8C48-0C5873F70DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47292810-31D8-400D-8C48-0C5873F70DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47292810-31D8-400D-8C48-0C5873F70DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F007BF60-ABFC-4A5C-A135-675911DCCDEE}
+	EndGlobalSection
+EndGlobal
