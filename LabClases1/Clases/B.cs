@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class B : A
+    public class B:A
     {
         public void M4()
-        { Console.WriteLine("metodo del hijo convocado"); }
-        public B() : base("Instancia de B")
+        {
+            Console.WriteLine("Método del hijo Invocado");
+        }
+
+        public B() : base ("Instancia de B")
         { }
-
-
     }
 }

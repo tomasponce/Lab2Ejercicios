@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4617E35A-19F1-4DA9-8BC9-17FD8A1EFF5D}</ProjectGuid>
+    <ProjectGuid>{4CD9C6DD-D853-40E8-AADE-E68FFBB5A82B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LabClases1</RootNamespace>
-    <AssemblyName>LabClases1</AssemblyName>
+    <RootNamespace>LabClases2</RootNamespace>
+    <AssemblyName>LabClases2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Clases\Clases.csproj">
-      <Project>{69b63a90-97f0-4f41-b585-329ea344d3bf}</Project>
+      <Project>{cb99b13a-b278-438c-8b6e-33157f3b0d15}</Project>
       <Name>Clases</Name>
     </ProjectReference>
   </ItemGroup>

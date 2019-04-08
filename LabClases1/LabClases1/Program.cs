@@ -5,25 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 using Clases;
 
-
 namespace LabClases1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            A instancia1 = new A();
-            B instancia2 = new B();
-            instancia1.MostrarNombre();
-            instancia1.M1();
-            instancia1.M2();
-            instancia1.M3();
-            instancia2.MostrarNombre();
-            instancia2.M1();
-            instancia2.M2();
-            instancia2.M3();
-            instancia2.M4();
+            A instanciaA = new A();
+            B instanciaB = new B();
+            instanciaA.MostrarNombre();
+            instanciaA.M1();
+            instanciaA.M2();
+            instanciaA.M3();
+            instanciaB.MostrarNombre();
+            instanciaB.M1();
+            instanciaB.M2();
+            instanciaB.M3();
+            instanciaB.M4();
+            Console.ReadKey();
         }
     }
 }
-
